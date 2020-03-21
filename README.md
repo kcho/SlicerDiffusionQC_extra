@@ -3,7 +3,7 @@
 ## Summarizes outputs from `SlicerDiffusionQC`
 
 
-### Import library
+### Clone the repository
 ```sh
 git clone https://github.com/kcho/SlicerDiffusionQC_extra
 ```
