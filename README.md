@@ -10,19 +10,6 @@
 
 
 
-#### Figure 1
-
-![](docs/fig1.png)
-
-#### Figure 2
-
-![](docs/fig2.png)
-
-#### Figure 3
-
-![](docs/fig3.png)
-
-
 
 
 ### Clone the repository
@@ -76,4 +63,21 @@ print(qcStudyDir.df)
 qcStudyDir.plot_KL_divergence_for_a_subject('sub-1')
 qcStudyDir.plot_KL_divergence_for_a_subject('sub-2')
 ```
+
+
+
+### Figures
+
+
+#### Figure 1
+
+![](docs/fig1.png)
+
+#### Figure 2
+
+![](docs/fig2.png)
+
+#### Figure 3
+
+![](docs/fig3.png)
 
