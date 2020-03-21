@@ -10,20 +10,17 @@
 
 
 
-### Figures
-
-
 #### Figure 1
 
-![](docs/fig1.png![](docs/fig1.png)
+![](docs/fig1.png)
 
 #### Figure 2
 
-![](docs/fig1.png![](docs/fig2.png)
+![](docs/fig2.png)
 
 #### Figure 3
 
-![](docs/fig1.png![](docs/fig3.png)
+![](docs/fig3.png)
 
 
 
