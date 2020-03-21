@@ -3,14 +3,18 @@
 ## Summarizes outputs from `SlicerDiffusionQC`
 
 
+- Can be attached to [SlicerDiffusionQC](https://github.com/pnlbwh/SlicerDiffusionQC)
+
 
 ### Jupyter notebook example
 
-[Jupyter_notebook](docs/DiffusionQC_summary_example.ipynb)
+[Jupyter notebook example](docs/DiffusionQC_summary_example.ipynb)
 
 
 
 
+
+## How to use
 
 ### Clone the repository
 ```sh
