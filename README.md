@@ -4,10 +4,15 @@
 
 
 ### Import library
-
-
+```sh
+git clone https://github.com/kcho/SlicerDiffusionQC_extra
 ```
-from slicer_diffusion_qc_extra.sdqe import QcDataDir, QcStudyDir
+
+
+
+### Import library
+```py
+from SlicerDiffusionQC_extra.slicer_diffusion_qc_extra.sdqe import QcDataDir, QcStudyDir
 ```
 
 
@@ -15,7 +20,7 @@ from slicer_diffusion_qc_extra.sdqe import QcDataDir, QcStudyDir
 ### Loading QC outputs from a single subject
 
 
-```
+```py
 data_qc_dir = '/QC/DIR/FOR/SUBJECT_1'
 
 subjQc = QcDataDir(data_qc_dir)
@@ -31,7 +36,7 @@ subjQc.plot_KL_divergence()
 ### Loading QC outputs from more than one subject
 
 
-```
+```py
 qcStudyDir = QcStudyDir('/QC/DIR/FOR/STUDY')
 rawDataDir = '/RAW/DIR/FOR/STUDY'
 
