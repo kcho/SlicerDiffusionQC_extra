@@ -132,8 +132,10 @@ class QcStudyDir:
         fig.colorbar(conf_img, cax=cax, ticks=[1,0])
         cax.set_yticklabels(['Confident', 'not confident'])
 
-        cax = fig.add_axes([0.8, d.get_points()[1][1] + 0.05, 0.1, 0.02])
+        cax = fig.add_axes([0.8, d.get_points()[1][1] + 0.02, 0.1, 0.02])
         fig.colorbar(qc_img, cax=cax, ticks=[1,0], orientation='horizontal')
+        cax.tick_params(bottom=False, top=True)
+        cax.tick_params(labelbottom=False, labeltop=True)
         cax.set_xticklabels(['Pass', 'Fail'])
 
         fig.show()
