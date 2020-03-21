@@ -3,6 +3,31 @@
 ## Summarizes outputs from `SlicerDiffusionQC`
 
 
+
+### Jupyter notebook example
+
+[Jupyter_notebook](docs/DiffusionQC_summary_example.ipynb)
+
+
+
+### Figures
+
+
+#### Figure 1
+
+![](docs/fig1.png![](docs/fig1.png)
+
+#### Figure 2
+
+![](docs/fig1.png![](docs/fig2.png)
+
+#### Figure 3
+
+![](docs/fig1.png![](docs/fig3.png)
+
+
+
+
 ### Clone the repository
 ```sh
 git clone https://github.com/kcho/SlicerDiffusionQC_extra
